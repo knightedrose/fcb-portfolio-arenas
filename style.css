@@ -1,12 +1,11 @@
 *{
 
-	font-family: "Roboto", sans-serif;
+	font-family: 'Source Code Pro', monospace;
 }
 
 h1,h2 {
 
-	font-family: "Montserrat", sans-serif;
-}
+	font-family: 'Source Code Pro', monospace;}
 
 img {
 
@@ -38,7 +37,8 @@ ul {
 }
 
 h2{
-	color: #007bff;
+	color: #FCA311;
+	background-color: #14213D;
 }
 
 /*para sa class, maglagay ng .*/
